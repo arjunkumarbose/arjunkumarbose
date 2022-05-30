@@ -4,7 +4,7 @@ I'm currently studying for BSc in Computer Science Engineering at American Inter
 
 ##### Stats:
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=arjunkumarbose&theme=radical&show_icons=true" />
-<img align="left" width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjunkumarbose&theme=radical&layout=compact" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjunkumarbose&theme=radical&layout=compact" />
 
 ![Profile views](https://gpvc.arturio.dev/arjunkumarbose)
 
