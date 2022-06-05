@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Arnob! 😀
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi,+there+👋+,+I'm+Arnob!+😀)](https://git.io/typing-svg)
 #### Software Developer
 I'm currently studying for BSc in Computer Science Engineering at American International University-Bangladesh (AIUB).
 
