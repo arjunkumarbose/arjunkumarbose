@@ -6,7 +6,7 @@ I'm currently studying for BSc in Computer Science Engineering at American Inter
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=arjunkumarbose&theme=radical&show_icons=true" />
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjunkumarbose&theme=radical&layout=compact" />
 
-![Profile views](https://gpvc.arturio.dev/arjunkumarbose)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arjunkumarbose&label=Profile%20views&color=0e75b6&style=flat" alt="arjunkumarbose" /> </p>
 
 ##### Skills:
 <img align="left" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
