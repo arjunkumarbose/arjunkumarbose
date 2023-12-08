@@ -1,12 +1,9 @@
 
 ![arjunkumarbose-banner](https://github.com/arjunkumarbose/arjunkumarbose/assets/82363264/7cc5e33a-60af-4415-995c-3e92b626e5b3)
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?lines=Hi,+there+👋+,+I'm+Arnob!+😀"
-    alt=""
-  />
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Century+Gothic&size=24&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+there!+%F0%9F%91%8B+I'm+Arnob!+%F0%9F%98%84;Welcome+to+my+profile!+%F0%9F%99%8B%F0%9F%8F%BB%E2%80%8D%E2%99%82%EF%B8%8F" />
+</div>
 
 <h1 align="center"><strong> Full Stack Software Developer </strong></h1>
 
@@ -18,8 +15,6 @@
 </p>
 <br/>
 <br/>
-
-
 
 <h2 align="center"><strong> <u>Experience </u></strong></h2>
 <i>
