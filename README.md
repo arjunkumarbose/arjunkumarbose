@@ -6,7 +6,7 @@
 </div>
 
 <p align="center">
-  <a href="https://arjunkumarbose.github.io/Arnob-Portfolio-Website/">
+  <a href="https://arjunkumarbose.github.io/Arnob-Portfolio-Website/" target="_blank">
     <img src="https://dabuttonfactory.com/button.png?t=Portfolio+Website&f=Bellota-Bold-Italic&ts=15&tc=0ff&hp=45&vp=20&c=13&bgt=gradient&bgc=451e60&ebgc=04233e&be=1" />
   </a>
 </p>
