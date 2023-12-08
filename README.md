@@ -5,6 +5,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Century+Gothic&size=24&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+there!+%F0%9F%91%8B+I'm+Arnob!+%F0%9F%98%84;Welcome+to+my+profile!+%F0%9F%99%8B%F0%9F%8F%BB%E2%80%8D%E2%99%82%EF%B8%8F" />
 </div>
 
+<p align="center">
+  <a href="https://arjunkumarbose.github.io/Arnob-Portfolio-Website/">
+    <img src="https://dabuttonfactory.com/button.png?t=Portfolio+Website&f=Bellota-Bold-Italic&ts=15&tc=0ff&hp=45&vp=20&c=13&bgt=gradient&bgc=451e60&ebgc=04233e&be=1" />
+  </a>
+</p>
+
 <h1 align="center"><strong> Full Stack Software Developer </strong></h1>
 
 <p align="center">
@@ -13,7 +19,6 @@
   Passionate about Software and Web Development as well as 
   Machine Learning fields!
 </p>
-<br/>
 <br/>
 
 <h2 align="center"><strong> <u>Experience </u></strong></h2>
@@ -25,16 +30,6 @@
  Domain: <strong>Machine Learning, Deep Learning, Federated Learning, etc</strong>
 </p>
 </i>
-<br/>
-<br/>
-
-<p align="center">
-  <b>
-  <a href="https://arjunkumarbose.github.io/Arnob-Portfolio-Website/">
-    Portfolio
-  </a>
-  </b>
-</p>
 
 <br />
 
