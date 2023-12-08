@@ -8,18 +8,29 @@
   />
 </p>
 
-<p align="center"><strong> Full Stack Software Developer </strong></p>
+<h1 align="center"><strong> Full Stack Software Developer </strong></h1>
 
 <p align="center">
-  I'm currently studying BSc in Computer Science Engineering at American International University-Bangladesh (AIUB).
+  I'm studying BSc in Computer Science Engineering (CSE) at American International University-Bangladesh (AIUB). 
+  <br/>
+  Passionate about Software and Web Development as well as 
+  Machine Learning fields!
 </p>
 <br/>
+<br/>
 
+
+
+<h2 align="center"><strong> <u>Experience </u></strong></h2>
 <i>
 <p align="center">
-  <strong>"Research Assistant (Intern)" </strong>at American International University-Bangladesh (AIUB).
+ Currently Working as a <strong>"Research Assistant (Intern)" </strong>at AIUB.
+</p>
+  <p align="center">
+ Domain: <strong>Machine Learning, Deep Learning, Federated Learning, etc</strong>
 </p>
 </i>
+<br/>
 <br/>
 
 <p align="center">
