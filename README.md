@@ -1,3 +1,6 @@
+
+![banner](https://github.com/arjunkumarbose/arjunkumarbose/assets/82363264/3033bffb-26b4-41a3-a5fc-ef3eaeb2ca1d)
+
 <p align="center">
   <img
     src="https://readme-typing-svg.herokuapp.com?lines=Hi,+there+👋+,+I'm+Arnob!+😀"
@@ -8,10 +11,17 @@
 <p align="center"><strong> Full Stack Software Developer </strong></p>
 
 <p align="center">
-  I'm currently studying for BSc in Computer Science Engineering at American
-  International University-Bangladesh (AIUB).
+  I'm currently studying BSc in Computer Science Engineering at American International University-Bangladesh (AIUB).
 </p>
-<br />
+<br/>
+
+<i>
+<p align="center">
+  <strong>"Research Assistant (Intern)" </strong>at American International University-Bangladesh (AIUB).
+</p>
+</i>
+<br/>
+
 <p align="center">
   <b>
   <a href="https://arjunkumarbose.github.io/Arnob-Portfolio-Website/">
