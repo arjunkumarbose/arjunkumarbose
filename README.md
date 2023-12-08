@@ -1,5 +1,5 @@
 
-![banner](https://github.com/arjunkumarbose/arjunkumarbose/assets/82363264/3033bffb-26b4-41a3-a5fc-ef3eaeb2ca1d)
+![arjunkumarbose-banner](https://github.com/arjunkumarbose/arjunkumarbose/assets/82363264/7cc5e33a-60af-4415-995c-3e92b626e5b3)
 
 <p align="center">
   <img
