@@ -142,7 +142,7 @@
 
 <p align="center">
   <a
-    href="[https://twitter.com/arjunkumarbose](https://linkedin.com/in/arjunkumarbose)"
+    href="https://linkedin.com/in/arjunkumarbose"
   >
     <img
       src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge"
