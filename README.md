@@ -14,20 +14,28 @@
 <h1 align="center"><strong> Full Stack Software Developer </strong></h1>
 
 <p align="center">
-  I'm studying BSc in Computer Science Engineering (CSE) at American International University-Bangladesh (AIUB). 
+  Currently studying for my <b>Master of Science in Computer Science (CS)</b> at American International University-Bangladesh (AIUB). 
   <br/>
-  Passionate about Software and Web Development as well as 
-  Machine Learning fields!
+  <i>Specialization: Intelligent System</i> 
 </p>
+<p align="center">
+  Completed <b>Bachelor in Science in Computer Science Engineering (CSE)</b> at American International University-Bangladesh (AIUB).
+  <br/>
+  <i>Major: Software Engineering</i>
+</p>
+
 <br/>
 
 <h2 align="center"><strong> <u>Experience </u></strong></h2>
 <i>
 <p align="center">
- Currently Working as a <strong>"Research Assistant (Intern)" </strong>at AIUB.
+2023 Jan - 2024 June |<strong> "Full Stack Developer" </strong>at <strong>SammTech</strong> | Domain: <strong>MERN Stack.</strong>
 </p>
-  <p align="center">
- Domain: <strong>Machine Learning, Deep Learning, Federated Learning, etc</strong>
+<p align="center">
+2023 Aug - 2024 Jan |<strong> "Research Assistant (Intern)" </strong>at <strong>AIUB</strong> | Domain: <strong>Machine Learning, Deep Learning, Cyber Security, etc.</strong>
+</p>
+<p align="center">
+ 
 </p>
 </i>
 
@@ -133,11 +141,6 @@
 </h4>
 
 <p align="center">
-  <a href="https://twitter.com/arjunkumarbose">
-    <img
-      src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white&style=for-the-badge"
-    />
-  </a>
   <a
     href="[https://twitter.com/arjunkumarbose](https://linkedin.com/in/arjunkumarbose)"
   >
