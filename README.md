@@ -19,7 +19,7 @@
   <i>Specialization: Intelligent System</i> 
 </p>
 <p align="center">
-  Completed <b>Bachelor in Science in Computer Science Engineering (CSE)</b> at American International University-Bangladesh (AIUB).
+  Completed <b>Bachelor of Science in Computer Science Engineering (CSE)</b> at American International University-Bangladesh (AIUB).
   <br/>
   <i>Major: Software Engineering</i>
 </p>
