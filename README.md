@@ -29,7 +29,7 @@
 <h2 align="center"><strong> <u>Experience </u></strong></h2>
 <i>
 <p align="center">
-2023 Jan - 2024 June |<strong> "Full Stack Developer" </strong>at <strong>SammTech</strong> | Domain: <strong>MERN Stack.</strong>
+2024 Jan - 2024 June |<strong> "Full Stack Developer" </strong>at <strong>SammTech</strong> | Domain: <strong>MERN Stack.</strong>
 </p>
 <p align="center">
 2023 Aug - 2024 Jan |<strong> "Research Assistant (Intern)" </strong>at <strong>AIUB</strong> | Domain: <strong>Machine Learning, Deep Learning, Cyber Security, etc.</strong>
