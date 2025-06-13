@@ -11,15 +11,16 @@
   </a>
 </p>
 
-<h1 align="center"><strong> Full Stack Software Developer </strong></h1>
+<!--<h1 align="center"><strong> Full Stack Software Developer </strong></h1>-->
+<h2 align="center"><strong> <u>Education </u></strong></h2>
 
-<p align="center">
-  Currently studying for my <b>Master of Science in Computer Science (CS)</b> at American International University-Bangladesh (AIUB). 
+<p align="left">
+  <b>2025 | Master of Science in Computer Science (CS)</b> at American International University-Bangladesh (AIUB). 
   <br/>
   <i>Specialization: Intelligent System</i> 
 </p>
-<p align="center">
-  Completed <b>Bachelor of Science in Computer Science Engineering (CSE)</b> at American International University-Bangladesh (AIUB).
+<p align="left">
+  <b>2020 | Bachelor of Science in Computer Science Engineering (CSE)</b> at American International University-Bangladesh (AIUB).
   <br/>
   <i>Major: Software Engineering</i>
 </p>
