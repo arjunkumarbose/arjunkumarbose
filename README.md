@@ -93,13 +93,13 @@
 <br />
 
 <h4 align="center">
-  <i>Contact</i>
+  <i>Others</i>
 </h4>
 
 <p align="center">
-  <!--<a href="https://linkedin.com/in/arjunkumarbose">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" />
-  </a>-->
+  <a href="https://orcid.org/0009-0003-2244-2328">
+    <img src="https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" />
+  </a>
   <a href="https://scholar.google.com/citations?hl=en&user=gqUzQf8AAAAJ">
     <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" />
   </a>
