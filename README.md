@@ -59,14 +59,14 @@
       <img
         height="200"
         align="center"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=arjunkumarbose&theme=highcontrast&hide_border=true"
+        src="https://github-readme-streak-stats-eight.vercel.app?user=arjunkumarbose&theme=radical&hide_border=true"
       />
     </td>
     <td>
       <img
         height="200"
         align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjunkumarbose&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true&layout=compact"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjunkumarbose&theme=radical&show_icons=true&hide_border=true&layout=compact"
       />
     </td>
   </tr>
