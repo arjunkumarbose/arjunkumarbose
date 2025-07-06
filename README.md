@@ -16,18 +16,21 @@
 <h2 align="center"><strong> <u>Experiences </u></strong></h2>
 <i>
 <p align="left">
-2025 Mar - Present |<strong> "Research Assistant" </strong>at <strong>Advanced Machine Intelligence Research Lab (AMIRL)</strong> | Domain: <strong>Deep learning, Image Processing, Biomedical Image Analysis, Cybersecurity, etc.</strong>
+2025 Mar - Present |<strong> "Research Assistant" </strong>at <strong>Advanced Machine Intelligence Research Lab (AMIRL)</strong> 
+   </br>
+   <i>Domain: Deep learning, Image Processing, Biomedical Image Analysis, Cybersecurity, etc. </i> 
 </p>
 <p align="left">
-2024 Jan - 2024 June |<strong> "Full Stack Developer" </strong>at <strong>SammTech</strong> | Domain: <strong>MERN Stack.</strong>
+2024 Jan - 2024 June |<strong> "Full Stack Developer" </strong>at <strong>SammTech</strong> 
+<br>
+  <i>Domain: MERN Stack, ReatJS, TainwindCSS, BootStrap5, etc.</i>
 </p>
 <p align="left">
-2023 Aug - 2024 Jan |<strong> "Research Assistant (Intern)" </strong>at <strong>AIUB</strong> | Domain: <strong>Machine Learning, Deep Learning, Cyber Security, etc.</strong>
+2023 Aug - 2024 Jan |<strong> "Research Assistant (Intern)" </strong>at <strong>AIUB</strong> 
+<br>
+    <i>Domain: <strong>Machine Learning, Deep Learning, Cyber Security, etc.</i> 
 </p>
 <p align="center">
- 
-</p>
-</i>
 
 <br/>
 
