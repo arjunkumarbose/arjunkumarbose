@@ -11,23 +11,9 @@
   </a>
 </p>
 
-<!--<h1 align="center"><strong> Full Stack Software Developer </strong></h1>-->
-<h2 align="center"><strong> <u>Education </u></strong></h2>
-
-<p align="left">
-  <b>2025 | Master of Science in Computer Science (CS)</b> at American International University-Bangladesh (AIUB). 
-  <br/>
-  <i>Specialization: Intelligent System</i> 
-</p>
-<p align="left">
-  <b>2020 | Bachelor of Science in Computer Science Engineering (CSE)</b> at American International University-Bangladesh (AIUB).
-  <br/>
-  <i>Major: Software Engineering</i>
-</p>
-
 <br/>
 
-<h2 align="center"><strong> <u>Experience </u></strong></h2>
+<h2 align="center"><strong> <u>Experiences </u></strong></h2>
 <i>
 <p align="left">
 2025 Mar - Present |<strong> "Research Assistant" </strong>at <strong>Advanced Machine Intelligence Research Lab (AMIRL)</strong> | Domain: <strong>Deep learning, Image Processing, Biomedical Image Analysis, Cybersecurity, etc.</strong>
@@ -42,6 +28,22 @@
  
 </p>
 </i>
+
+<br/>
+
+<!--<h1 align="center"><strong> Full Stack Software Developer </strong></h1>-->
+<h2 align="center"><strong> <u>Education </u></strong></h2>
+
+<p align="left">
+  <b>2025 | Master of Science in Computer Science (CS)</b> at American International University-Bangladesh (AIUB). 
+  <br/>
+  <i>Specialization: Intelligent System</i> 
+</p>
+<p align="left">
+  <b>2020 | Bachelor of Science in Computer Science Engineering (CSE)</b> at American International University-Bangladesh (AIUB).
+  <br/>
+  <i>Major: Software Engineering</i>
+</p>
 
 <br />
 
