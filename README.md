@@ -27,10 +27,8 @@
     >.</strong
   >
   <br />
-  <i
-    >Domain: Deep learning, Image Processing, Biomedical Image Analysis,
-    Cybersecurity, etc.
-  </i>
+  <b>Domain:</b> Deep learning, Image Processing, Biomedical Image Analysis,
+  Cybersecurity, etc.
 </p>
 <p align="left">
   2024 Jan - 2024 June | <strong> "Full Stack Developer" </strong>at
@@ -38,7 +36,7 @@
     ><a href="https://samm-tech.net/" target="_blank">SammTech Ltd</a>.</strong
   >
   <br />
-  <i>Domain: MERN Stack, ReatJS, TainwindCSS, BootStrap5, etc.</i>
+  <b>Domain:</b> MERN Stack, ReatJS, TainwindCSS, BootStrap5, etc.
 </p>
 <p align="left">
   2023 Aug - 2024 Jan | <strong> "Research Assistant (Intern)" </strong>at
@@ -48,7 +46,7 @@
     >.</strong
   >
   <br />
-  <i>Domain: Machine Learning, Deep Learning, Cybersecurity, etc.</i>
+  <b>Domain:</b> Machine Learning, Deep Learning, Cybersecurity, etc.
 </p>
 <p align="center">
   <br />
@@ -66,7 +64,7 @@
   <br />
   <i>Specialization: Intelligent System.</i>
   <br />
-  <i>At: American International University-Bangladesh (AIUB).</i>
+  <b>Institute:</b> American International University-Bangladesh (AIUB).
 </p>
 <p align="left">
   2020 Jan - 2024 Jan |
@@ -74,7 +72,7 @@
   <br />
   <i>Major: Software Engineering.</i>
   <br />
-  <i>At: American International University-Bangladesh (AIUB).</i>
+  <b>Institute:</b> American International University-Bangladesh (AIUB).
 </p>
 
 <br />
