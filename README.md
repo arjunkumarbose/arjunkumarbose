@@ -48,7 +48,7 @@
     >.</strong
   >
   <br />
-  <i>Domain: Machine Learning, Deep Learning, Cyber Security, etc.</i>
+  <i>Domain: Machine Learning, Deep Learning, Cybersecurity, etc.</i>
 </p>
 <p align="center">
   <br />
