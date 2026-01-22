@@ -20,6 +20,18 @@
   <strong> <u>Experiences </u></strong>
 </h2>
 <p align="left">
+  2025 Oct - Present | <strong> "Lecturer" </strong>at
+  <strong
+    ><a href="https://www.aiub.edu/" target="_blank"
+      >American International University-Bangladesh (AIUB)</a
+    >.</strong
+  >
+  <br />
+  <b>Department:</b> Computer Science, Faculty of Science & Technology.
+  <br />
+  
+</p>
+<p align="left">
   2025 Mar - Present | <strong> "Research Assistant" </strong>at
   <strong
     ><a href="https://amirl.org/" target="_blank"
